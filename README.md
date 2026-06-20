@@ -1,5 +1,7 @@
 # 💧 AquaGuardian 
 **AI-Driven Predictive Platform for Water Network Anomalies**
+
+
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js_14-black.svg)](#)
 [![Streamlit](https://img.shields.io/badge/Analytics-Streamlit-red.svg)](#)
 [![Python](https://img.shields.io/badge/ML-Python_3.8+-yellow.svg)](#)
